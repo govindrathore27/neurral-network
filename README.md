@@ -11,4 +11,4 @@ In intialisation , I have intialised parameters using to two different types of 
 -Default intialisation.\
 Creating classes and functions for forward pass,backward pass,parameter update using gradient descent.\
 Thanks,\
-@CouseraDeepLearningSpecialisation for basic idea behind.
+
