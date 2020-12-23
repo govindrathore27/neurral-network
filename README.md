@@ -1,4 +1,4 @@
-# neural-network-from-scratch
+# Neural-network-from-scratch
 In this notebook I have tried to make the  basic building blocks required to make a simple architecture of nearal network.
 ## Activations:- 
 1.They basically decide whether the neuron should be activated or not. In artificial neural networks, the activation function defines the output of that node given an input or set of inputs.\
